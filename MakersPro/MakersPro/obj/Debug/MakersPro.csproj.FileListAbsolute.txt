@@ -6,3 +6,10 @@ D:\cuarto semestre\MakersPro\MakersPro\MakersPro\bin\Microsoft.CodeDom.Providers
 D:\cuarto semestre\MakersPro\MakersPro\MakersPro\obj\Debug\MakersPro.csproj.CoreCompileInputs.cache
 D:\cuarto semestre\MakersPro\MakersPro\MakersPro\obj\Debug\MakersPro.dll
 D:\cuarto semestre\MakersPro\MakersPro\MakersPro\obj\Debug\MakersPro.pdb
+D:\dataclouster\MakersPro\MakersPro\MakersPro\bin\MakersPro.dll.config
+D:\dataclouster\MakersPro\MakersPro\MakersPro\bin\MakersPro.dll
+D:\dataclouster\MakersPro\MakersPro\MakersPro\bin\MakersPro.pdb
+D:\dataclouster\MakersPro\MakersPro\MakersPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dataclouster\MakersPro\MakersPro\MakersPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dataclouster\MakersPro\MakersPro\MakersPro\obj\Debug\MakersPro.dll
+D:\dataclouster\MakersPro\MakersPro\MakersPro\obj\Debug\MakersPro.pdb

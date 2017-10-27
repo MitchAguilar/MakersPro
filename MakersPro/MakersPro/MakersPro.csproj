@@ -1,4 +1,5 @@
-﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
   <Import Project="..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
@@ -69,6 +70,60 @@
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\MakersPro - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\MakersPro - Web Deploy.pubxml" />
+    <Content Include="views\assets\css\.DS_Store" />
+    <Content Include="views\assets\fonts\.DS_Store" />
+    <Content Include="views\assets\fonts\Pe-icon-7-stroke.eot" />
+    <Content Include="views\assets\fonts\Pe-icon-7-stroke.ttf" />
+    <Content Include="views\assets\fonts\Pe-icon-7-stroke.woff" />
+    <Content Include="views\assets\img\.DS_Store" />
+    <Content Include="views\assets\img\faces\.DS_Store" />
+    <Content Include="views\assets\sass\.DS_Store" />
+    <Content Include="views\assets\sass\lbd\.DS_Store" />
+    <Content Include="views\assets\sass\lbd\mixins\_buttons.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_cards.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_chartist.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_icons.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_inputs.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_labels.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_morphing-buttons.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_navbars.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_social-buttons.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_tabs.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_transparency.scss" />
+    <Content Include="views\assets\sass\lbd\mixins\_vendor-prefixes.scss" />
+    <Content Include="views\assets\sass\lbd\_alerts.scss" />
+    <Content Include="views\assets\sass\lbd\_buttons.scss" />
+    <Content Include="views\assets\sass\lbd\_cards.scss" />
+    <Content Include="views\assets\sass\lbd\_carousel.scss" />
+    <Content Include="views\assets\sass\lbd\_chartist.scss" />
+    <Content Include="views\assets\sass\lbd\_checkbox-radio-switch.scss" />
+    <Content Include="views\assets\sass\lbd\_collapse.scss" />
+    <Content Include="views\assets\sass\lbd\_datepicker.scss" />
+    <Content Include="views\assets\sass\lbd\_dropdown.scss" />
+    <Content Include="views\assets\sass\lbd\_flexisel.scss" />
+    <Content Include="views\assets\sass\lbd\_footers.scss" />
+    <Content Include="views\assets\sass\lbd\_icons.scss" />
+    <Content Include="views\assets\sass\lbd\_inputs.scss" />
+    <Content Include="views\assets\sass\lbd\_labels.scss" />
+    <Content Include="views\assets\sass\lbd\_media.scss" />
+    <Content Include="views\assets\sass\lbd\_misc.scss" />
+    <Content Include="views\assets\sass\lbd\_mixins.scss" />
+    <Content Include="views\assets\sass\lbd\_modal.scss" />
+    <Content Include="views\assets\sass\lbd\_morphing-buttons.scss" />
+    <Content Include="views\assets\sass\lbd\_navbars.scss" />
+    <Content Include="views\assets\sass\lbd\_progress-bars.scss" />
+    <Content Include="views\assets\sass\lbd\_responsive.scss" />
+    <Content Include="views\assets\sass\lbd\_sections.scss" />
+    <Content Include="views\assets\sass\lbd\_sidebar-and-main-panel.scss" />
+    <Content Include="views\assets\sass\lbd\_sliders.scss" />
+    <Content Include="views\assets\sass\lbd\_social-buttons.scss" />
+    <Content Include="views\assets\sass\lbd\_tables.scss" />
+    <Content Include="views\assets\sass\lbd\_tabs-navs-pagination.scss" />
+    <Content Include="views\assets\sass\lbd\_tags.scss" />
+    <Content Include="views\assets\sass\lbd\_tooltips-and-popovers.scss" />
+    <Content Include="views\assets\sass\lbd\_typography.scss" />
+    <Content Include="views\assets\sass\lbd\_variables.scss" />
+    <Content Include="views\assets\sass\light-bootstrap-dashboard.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -79,6 +134,42 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="views\assets\css\animate.min.css" />
+    <Content Include="views\assets\css\bootstrap.min.css" />
+    <Content Include="views\assets\css\demo.css" />
+    <Content Include="views\assets\css\light-bootstrap-dashboard.css" />
+    <Content Include="views\assets\css\pe-icon-7-stroke.css" />
+    <Content Include="views\assets\fonts\Pe-icon-7-stroke.svg" />
+    <Content Include="views\assets\img\default-avatar.png" />
+    <Content Include="views\assets\img\faces\face-0.jpg" />
+    <Content Include="views\assets\img\faces\face-1.jpg" />
+    <Content Include="views\assets\img\faces\face-2.jpg" />
+    <Content Include="views\assets\img\faces\face-3.jpg" />
+    <Content Include="views\assets\img\faces\face-4.jpg" />
+    <Content Include="views\assets\img\faces\face-5.jpg" />
+    <Content Include="views\assets\img\faces\face-6.jpg" />
+    <Content Include="views\assets\img\faces\face-7.jpg" />
+    <Content Include="views\assets\img\faces\tim_vector.jpe" />
+    <Content Include="views\assets\img\favicon.ico" />
+    <Content Include="views\assets\img\loading-bubbles.svg" />
+    <Content Include="views\assets\img\mask.png" />
+    <Content Include="views\assets\img\new_logo.png" />
+    <Content Include="views\assets\img\sidebar-1.jpg" />
+    <Content Include="views\assets\img\sidebar-2.jpg" />
+    <Content Include="views\assets\img\sidebar-3.jpg" />
+    <Content Include="views\assets\img\sidebar-4.jpg" />
+    <Content Include="views\assets\img\sidebar-5.jpg" />
+    <Content Include="views\assets\img\tim_80x80.png" />
+    <Content Include="views\assets\js\bootstrap-checkbox-radio-switch.js" />
+    <Content Include="views\assets\js\bootstrap-notify.js" />
+    <Content Include="views\assets\js\bootstrap-select.js" />
+    <Content Include="views\assets\js\bootstrap.min.js" />
+    <Content Include="views\assets\js\chartist.min.js" />
+    <Content Include="views\assets\js\demo.js" />
+    <Content Include="views\assets\js\jquery-1.10.2.js" />
+    <Content Include="views\assets\js\light-bootstrap-dashboard.js" />
+    <Content Include="views\dashboard.html" />
+    <Content Include="views\index.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -93,11 +184,17 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="views\index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="views\index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="views\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
