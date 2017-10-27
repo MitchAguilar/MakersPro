@@ -1,0 +1,8 @@
+D:\cuarto semestre\MakersPro\MakersPro\MakersPro\bin\MakersPro.dll.config
+D:\cuarto semestre\MakersPro\MakersPro\MakersPro\bin\MakersPro.dll
+D:\cuarto semestre\MakersPro\MakersPro\MakersPro\bin\MakersPro.pdb
+D:\cuarto semestre\MakersPro\MakersPro\MakersPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\cuarto semestre\MakersPro\MakersPro\MakersPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\cuarto semestre\MakersPro\MakersPro\MakersPro\obj\Debug\MakersPro.csproj.CoreCompileInputs.cache
+D:\cuarto semestre\MakersPro\MakersPro\MakersPro\obj\Debug\MakersPro.dll
+D:\cuarto semestre\MakersPro\MakersPro\MakersPro\obj\Debug\MakersPro.pdb
